@@ -134,3 +134,6 @@ https://github.com/pacho15/mynuclei_templates
 https://github.com/pikpikcu/my-nuclei-templates
 https://github.com/SirBugs/Priv8-Nuclei-Templates
 https://github.com/projectdiscovery/nuclei-templates
+https://github.com/UltimateSec/ultimaste-nuclei-templates
+https://github.com/projectdiscovery/fuzzing-templates
+https://github.com/5hank4r/nuclei-T
